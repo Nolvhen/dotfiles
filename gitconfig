@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nolvhen.gesbert@gmail.com
+	name = nolvhen gesbert
